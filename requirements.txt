@@ -1,5 +1,5 @@
-python-telegram-bot>=20.0
-pyrogram>=2.0.0
-pytgcalls>=3.0.0
+python-telegram-bot
+pyrogram
+pytgcalls
 tgcrypto
 asyncio
